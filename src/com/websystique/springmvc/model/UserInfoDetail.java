@@ -1,6 +1,6 @@
 	package com.websystique.springmvc.model;
 
-public class UserInfoDetails {
+public class UserInfoDetail {
 
 	private long id;
 	

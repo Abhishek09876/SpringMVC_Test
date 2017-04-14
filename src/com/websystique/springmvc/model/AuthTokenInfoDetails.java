@@ -1,6 +1,6 @@
 package com.websystique.springmvc.model;
 
-public class AuthTokenInfoDetail {
+public class AuthTokenInfoDetails {
 
 	private String access_token;
 	private String token_type;
